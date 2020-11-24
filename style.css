@@ -1,0 +1,29 @@
+/* Add padding to containers */
+.container {
+	padding: 16px;
+}
+
+/* Change the color (white) and decoration (underline) of the hiperlink */
+.hiperlimk {
+	color: white;
+}
+
+.hiperlimk:hover {
+	text-decoration: none;
+	color: white;
+}
+
+/* Positions it higher */
+.print-json {
+	margin: -40px 0 0 0;
+}
+
+/* Add margin to buttons */
+.btn {
+	margin: 0 0 10px 0;
+}
+
+#buttons {
+	width: 100%;
+	margin: 5px 0 0 0;
+}

@@ -3,6 +3,11 @@
 	padding: 16px;
 }
 
+/* Solving the width error from tag <pre> */
+#using-pre {
+	padding-left: 23px;
+}
+
 /* Change the color (white) and decoration (underline) of the hiperlink */
 .hiperlimk {
 	color: white;
@@ -16,6 +21,11 @@
 /* Positions it higher */
 .print-json {
 	margin: -40px 0 0 0;
+	font-family: monaco,consolas,"courier new",monospace;
+	font-size: 1em;
+	min-height: 3em;
+	overflow: auto;
+	padding: 1em;
 }
 
 /* Add margin to buttons */

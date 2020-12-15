@@ -20,11 +20,6 @@
 	display: inline-block;
 }
 
-.gender-org {
-	padding: 10px;
-	margin: 0 0 0 5px;
-}
-
 .double-line-org {
 	padding: 10px;
 	margin: 0 0 -15px 5px;
@@ -37,10 +32,6 @@
 
 #buttons {
 	margin: 10px 0 0 0;
-}
-
-#btn-reset {
-	font-size: 80%;
 }
 
 /* Set gray background in all inputs */
